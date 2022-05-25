@@ -255,8 +255,6 @@ export default Component.extend({
     if (this.initialCountry) {
       this._iti.setCountry(this.initialCountry);
     }
-
-    this.update(this.number, this._metaData(_iti));
   },
 
   _formatNumber() {

@@ -18,7 +18,7 @@
   "homepage": "https://qonto.github.io/ember-phone-input",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qonto/ember-phone-input.git"
+    "url": "https://github.com/cph/ember-phone-input.git"
   },
   "license": "MIT",
   "author": "",
@@ -52,7 +52,7 @@
     "@glimmer/tracking": "^1.0.2",
     "babel-eslint": "^10.1.0",
     "broccoli-asset-rev": "^3.0.0",
-    "ember-cli": "~3.28.0",
+    "ember-cli": "^3.28.5",
     "ember-cli-addon-docs": "^4.0.0",
     "ember-cli-addon-docs-yuidoc": "^1.0.0",
     "ember-cli-dependency-checker": "^3.2.0",
@@ -71,7 +71,7 @@
     "ember-maybe-import-regenerator": "^1.0.0",
     "ember-qunit": "^5.1.5",
     "ember-resolver": "^8.0.3",
-    "ember-source": "~3.28.1",
+    "ember-source": "^3.28.5",
     "ember-source-channel-url": "^3.0.0",
     "ember-template-lint": "^3.9.0",
     "ember-try": "^1.4.0",
