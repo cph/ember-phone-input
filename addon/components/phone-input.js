@@ -266,9 +266,7 @@ export default Component.extend({
       this._iti.setCountry(this.country);
     }
 
-    if (this.number) {
-      this._iti.setNumber(this.number);
-    }
+    this._iti.setNumber(this.number);
   },
 
   _onCountryChange() {
